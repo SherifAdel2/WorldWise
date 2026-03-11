@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-03-11T15:08:32.372Z",
+      "notes": "",
+      "position": {
+        "lat": "30.107117887092382",
+        "lng": "31.4695989537026"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Markaz Bani Suwayf",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-03-11T15:08:44.935Z",
+      "notes": "",
+      "position": {
+        "lat": "28.86391842622456",
+        "lng": "31.11724391975218"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Markaz al Waḩat ad Dakhilah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-03-11T15:09:38.050Z",
+      "notes": "",
+      "position": {
+        "lat": "27.11781284232125",
+        "lng": "30.322265625000004"
+      },
+      "id": 98443203
+    }
+  ]
+}
