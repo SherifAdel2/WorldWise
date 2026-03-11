@@ -34,13 +34,11 @@ This project was built to practice modern React development including **routing,
 
 Create a folder called **screenshots** in the project root and add images.
 
-```markdown
 ![Home Page](./screenshots/home.png)
 
 ![Map View](./screenshots/map.png)
 
 ![Cities List](./screenshots/form.png)
-```
 
 ---
 
